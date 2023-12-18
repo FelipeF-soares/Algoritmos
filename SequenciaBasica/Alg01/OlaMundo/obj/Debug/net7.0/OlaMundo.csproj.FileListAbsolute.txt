@@ -1,0 +1,14 @@
+C:\github\Algortimos\SequenciaBasica\Alg01\OlaMundo\bin\Debug\net7.0\OlaMundo.exe
+C:\github\Algortimos\SequenciaBasica\Alg01\OlaMundo\bin\Debug\net7.0\OlaMundo.deps.json
+C:\github\Algortimos\SequenciaBasica\Alg01\OlaMundo\bin\Debug\net7.0\OlaMundo.runtimeconfig.json
+C:\github\Algortimos\SequenciaBasica\Alg01\OlaMundo\bin\Debug\net7.0\OlaMundo.dll
+C:\github\Algortimos\SequenciaBasica\Alg01\OlaMundo\bin\Debug\net7.0\OlaMundo.pdb
+C:\github\Algortimos\SequenciaBasica\Alg01\OlaMundo\obj\Debug\net7.0\OlaMundo.GeneratedMSBuildEditorConfig.editorconfig
+C:\github\Algortimos\SequenciaBasica\Alg01\OlaMundo\obj\Debug\net7.0\OlaMundo.AssemblyInfoInputs.cache
+C:\github\Algortimos\SequenciaBasica\Alg01\OlaMundo\obj\Debug\net7.0\OlaMundo.AssemblyInfo.cs
+C:\github\Algortimos\SequenciaBasica\Alg01\OlaMundo\obj\Debug\net7.0\OlaMundo.csproj.CoreCompileInputs.cache
+C:\github\Algortimos\SequenciaBasica\Alg01\OlaMundo\obj\Debug\net7.0\OlaMundo.dll
+C:\github\Algortimos\SequenciaBasica\Alg01\OlaMundo\obj\Debug\net7.0\refint\OlaMundo.dll
+C:\github\Algortimos\SequenciaBasica\Alg01\OlaMundo\obj\Debug\net7.0\OlaMundo.pdb
+C:\github\Algortimos\SequenciaBasica\Alg01\OlaMundo\obj\Debug\net7.0\OlaMundo.genruntimeconfig.cache
+C:\github\Algortimos\SequenciaBasica\Alg01\OlaMundo\obj\Debug\net7.0\ref\OlaMundo.dll
