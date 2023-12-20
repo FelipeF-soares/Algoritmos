@@ -1,0 +1,14 @@
+C:\github\Algortimos\SequenciaBasica\Alg02\BoasVindas\bin\Debug\net7.0\BoasVindas.exe
+C:\github\Algortimos\SequenciaBasica\Alg02\BoasVindas\bin\Debug\net7.0\BoasVindas.deps.json
+C:\github\Algortimos\SequenciaBasica\Alg02\BoasVindas\bin\Debug\net7.0\BoasVindas.runtimeconfig.json
+C:\github\Algortimos\SequenciaBasica\Alg02\BoasVindas\bin\Debug\net7.0\BoasVindas.dll
+C:\github\Algortimos\SequenciaBasica\Alg02\BoasVindas\bin\Debug\net7.0\BoasVindas.pdb
+C:\github\Algortimos\SequenciaBasica\Alg02\BoasVindas\obj\Debug\net7.0\BoasVindas.GeneratedMSBuildEditorConfig.editorconfig
+C:\github\Algortimos\SequenciaBasica\Alg02\BoasVindas\obj\Debug\net7.0\BoasVindas.AssemblyInfoInputs.cache
+C:\github\Algortimos\SequenciaBasica\Alg02\BoasVindas\obj\Debug\net7.0\BoasVindas.AssemblyInfo.cs
+C:\github\Algortimos\SequenciaBasica\Alg02\BoasVindas\obj\Debug\net7.0\BoasVindas.csproj.CoreCompileInputs.cache
+C:\github\Algortimos\SequenciaBasica\Alg02\BoasVindas\obj\Debug\net7.0\BoasVindas.dll
+C:\github\Algortimos\SequenciaBasica\Alg02\BoasVindas\obj\Debug\net7.0\refint\BoasVindas.dll
+C:\github\Algortimos\SequenciaBasica\Alg02\BoasVindas\obj\Debug\net7.0\BoasVindas.pdb
+C:\github\Algortimos\SequenciaBasica\Alg02\BoasVindas\obj\Debug\net7.0\BoasVindas.genruntimeconfig.cache
+C:\github\Algortimos\SequenciaBasica\Alg02\BoasVindas\obj\Debug\net7.0\ref\BoasVindas.dll

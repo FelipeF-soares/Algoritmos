@@ -1,2 +1,6 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿using BoasVindas.services;
+
+MensagemBoasVidas mensagem = new MensagemBoasVidas();
+Console.WriteLine(mensagem.Perguntar());
+mensagem.Nome = Console.ReadLine();
+Console.WriteLine(mensagem.Exibir());
