@@ -1,0 +1,14 @@
+C:\github\Algortimos\SequenciaBasica\Alg04\Soma\bin\Debug\net7.0\Soma.exe
+C:\github\Algortimos\SequenciaBasica\Alg04\Soma\bin\Debug\net7.0\Soma.deps.json
+C:\github\Algortimos\SequenciaBasica\Alg04\Soma\bin\Debug\net7.0\Soma.runtimeconfig.json
+C:\github\Algortimos\SequenciaBasica\Alg04\Soma\bin\Debug\net7.0\Soma.dll
+C:\github\Algortimos\SequenciaBasica\Alg04\Soma\bin\Debug\net7.0\Soma.pdb
+C:\github\Algortimos\SequenciaBasica\Alg04\Soma\obj\Debug\net7.0\Soma.GeneratedMSBuildEditorConfig.editorconfig
+C:\github\Algortimos\SequenciaBasica\Alg04\Soma\obj\Debug\net7.0\Soma.AssemblyInfoInputs.cache
+C:\github\Algortimos\SequenciaBasica\Alg04\Soma\obj\Debug\net7.0\Soma.AssemblyInfo.cs
+C:\github\Algortimos\SequenciaBasica\Alg04\Soma\obj\Debug\net7.0\Soma.csproj.CoreCompileInputs.cache
+C:\github\Algortimos\SequenciaBasica\Alg04\Soma\obj\Debug\net7.0\Soma.dll
+C:\github\Algortimos\SequenciaBasica\Alg04\Soma\obj\Debug\net7.0\refint\Soma.dll
+C:\github\Algortimos\SequenciaBasica\Alg04\Soma\obj\Debug\net7.0\Soma.pdb
+C:\github\Algortimos\SequenciaBasica\Alg04\Soma\obj\Debug\net7.0\Soma.genruntimeconfig.cache
+C:\github\Algortimos\SequenciaBasica\Alg04\Soma\obj\Debug\net7.0\ref\Soma.dll
