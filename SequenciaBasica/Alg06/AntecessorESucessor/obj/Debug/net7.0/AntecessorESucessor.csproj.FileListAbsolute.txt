@@ -1,0 +1,14 @@
+C:\GitHub\Algoritmos\SequenciaBasica\Alg06\AntecessorESucessor\bin\Debug\net7.0\AntecessorESucessor.exe
+C:\GitHub\Algoritmos\SequenciaBasica\Alg06\AntecessorESucessor\bin\Debug\net7.0\AntecessorESucessor.deps.json
+C:\GitHub\Algoritmos\SequenciaBasica\Alg06\AntecessorESucessor\bin\Debug\net7.0\AntecessorESucessor.runtimeconfig.json
+C:\GitHub\Algoritmos\SequenciaBasica\Alg06\AntecessorESucessor\bin\Debug\net7.0\AntecessorESucessor.dll
+C:\GitHub\Algoritmos\SequenciaBasica\Alg06\AntecessorESucessor\bin\Debug\net7.0\AntecessorESucessor.pdb
+C:\GitHub\Algoritmos\SequenciaBasica\Alg06\AntecessorESucessor\obj\Debug\net7.0\AntecessorESucessor.GeneratedMSBuildEditorConfig.editorconfig
+C:\GitHub\Algoritmos\SequenciaBasica\Alg06\AntecessorESucessor\obj\Debug\net7.0\AntecessorESucessor.AssemblyInfoInputs.cache
+C:\GitHub\Algoritmos\SequenciaBasica\Alg06\AntecessorESucessor\obj\Debug\net7.0\AntecessorESucessor.AssemblyInfo.cs
+C:\GitHub\Algoritmos\SequenciaBasica\Alg06\AntecessorESucessor\obj\Debug\net7.0\AntecessorESucessor.csproj.CoreCompileInputs.cache
+C:\GitHub\Algoritmos\SequenciaBasica\Alg06\AntecessorESucessor\obj\Debug\net7.0\AntecessorESucessor.dll
+C:\GitHub\Algoritmos\SequenciaBasica\Alg06\AntecessorESucessor\obj\Debug\net7.0\refint\AntecessorESucessor.dll
+C:\GitHub\Algoritmos\SequenciaBasica\Alg06\AntecessorESucessor\obj\Debug\net7.0\AntecessorESucessor.pdb
+C:\GitHub\Algoritmos\SequenciaBasica\Alg06\AntecessorESucessor\obj\Debug\net7.0\AntecessorESucessor.genruntimeconfig.cache
+C:\GitHub\Algoritmos\SequenciaBasica\Alg06\AntecessorESucessor\obj\Debug\net7.0\ref\AntecessorESucessor.dll
