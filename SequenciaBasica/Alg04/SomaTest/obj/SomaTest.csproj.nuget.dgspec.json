@@ -1,24 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\github\\Algortimos\\SequenciaBasica\\Alg04\\SomaTest\\SomaTest.csproj": {}
+    "C:\\GitHub\\Algoritmos\\SequenciaBasica\\Alg04\\SomaTest\\SomaTest.csproj": {}
   },
   "projects": {
-    "C:\\github\\Algortimos\\SequenciaBasica\\Alg04\\SomaTest\\SomaTest.csproj": {
+    "C:\\GitHub\\Algoritmos\\SequenciaBasica\\Alg04\\SomaTest\\SomaTest.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\github\\Algortimos\\SequenciaBasica\\Alg04\\SomaTest\\SomaTest.csproj",
+        "projectUniqueName": "C:\\GitHub\\Algoritmos\\SequenciaBasica\\Alg04\\SomaTest\\SomaTest.csproj",
         "projectName": "SomaTest",
-        "projectPath": "C:\\github\\Algortimos\\SequenciaBasica\\Alg04\\SomaTest\\SomaTest.csproj",
-        "packagesPath": "C:\\Users\\f150030\\.nuget\\packages\\",
-        "outputPath": "C:\\github\\Algortimos\\SequenciaBasica\\Alg04\\SomaTest\\obj\\",
+        "projectPath": "C:\\GitHub\\Algoritmos\\SequenciaBasica\\Alg04\\SomaTest\\SomaTest.csproj",
+        "packagesPath": "C:\\Users\\Felipe\\.nuget\\packages\\",
+        "outputPath": "C:\\GitHub\\Algoritmos\\SequenciaBasica\\Alg04\\SomaTest\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\f150030\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\Felipe\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -32,8 +28,8 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "C:\\github\\Algortimos\\SequenciaBasica\\Alg04\\Soma\\Soma.csproj": {
-                "projectPath": "C:\\github\\Algortimos\\SequenciaBasica\\Alg04\\Soma\\Soma.csproj"
+              "C:\\GitHub\\Algoritmos\\SequenciaBasica\\Alg04\\Soma\\Soma.csproj": {
+                "projectPath": "C:\\GitHub\\Algoritmos\\SequenciaBasica\\Alg04\\Soma\\Soma.csproj"
               }
             }
           }
@@ -89,21 +85,17 @@
         }
       }
     },
-    "C:\\github\\Algortimos\\SequenciaBasica\\Alg04\\Soma\\Soma.csproj": {
+    "C:\\GitHub\\Algoritmos\\SequenciaBasica\\Alg04\\Soma\\Soma.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\github\\Algortimos\\SequenciaBasica\\Alg04\\Soma\\Soma.csproj",
+        "projectUniqueName": "C:\\GitHub\\Algoritmos\\SequenciaBasica\\Alg04\\Soma\\Soma.csproj",
         "projectName": "Soma",
-        "projectPath": "C:\\github\\Algortimos\\SequenciaBasica\\Alg04\\Soma\\Soma.csproj",
-        "packagesPath": "C:\\Users\\f150030\\.nuget\\packages\\",
-        "outputPath": "C:\\github\\Algortimos\\SequenciaBasica\\Alg04\\Soma\\obj\\",
+        "projectPath": "C:\\GitHub\\Algoritmos\\SequenciaBasica\\Alg04\\Soma\\Soma.csproj",
+        "packagesPath": "C:\\Users\\Felipe\\.nuget\\packages\\",
+        "outputPath": "C:\\GitHub\\Algoritmos\\SequenciaBasica\\Alg04\\Soma\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\f150030\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\Felipe\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
