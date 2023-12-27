@@ -8,7 +8,7 @@
 5. Faça um programa que leia as duas notas de um aluno em uma matéria e mostre na tela a sua média na disciplina. Ex: Nota 1: 4.5 Nota 2: 8.5 A média entre 4.5 e 8.5 é igual a 6.5
 6. Faça um programa que leia um número inteiro e mostre o seu antecessor e seu sucessor. Ex: Digite um número: 9 O antecessor de 9 é 8 O sucessor de 9 é 10
 7. Crie um algoritmo que leia um número real e mostre na tela o seu dobro e a sua terça parte. Ex: Digite um número: 3.5 O dobro de 3.5 é 7.0 A terça parte de 3.5 é 1.16666
-8. Desenvolva um programa que leia uma distância em metros e mostre os valores relativos em outras medidas. Ex: Digite uma distância em metros: 185.72 A distância de 85.7m corresponde a:
+8. Desenvolva um programa que leia uma distância em metros e mostre os valores relativos em outras medidas. Ex: Digite uma distância em metros: 185.72 A distância de 185.7m corresponde a:
 0.18572Km 1.8572Hm 18.572Dam 1857.2dm 18572.0cm 185720.0mm
 9. Faça um algoritmo que leia quanto dinheiro uma pessoa tem na carteira (em R$) e mostre quantos dólares ela pode comprar. Considere US$1,00 = R$3,45.
 10. Faça um algoritmo que leia a largura e altura de uma parede, calcule e mostre a área a ser pintada e a quantidade de tinta necessária para o serviço, sabendo que cada litro de tinta pinta uma área de 2metros quadrados.
