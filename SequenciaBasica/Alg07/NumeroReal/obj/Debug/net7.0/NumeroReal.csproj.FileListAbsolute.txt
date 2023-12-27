@@ -1,0 +1,14 @@
+C:\GitHub\Algoritmos\SequenciaBasica\Alg07\NumeroReal\bin\Debug\net7.0\NumeroReal.exe
+C:\GitHub\Algoritmos\SequenciaBasica\Alg07\NumeroReal\bin\Debug\net7.0\NumeroReal.deps.json
+C:\GitHub\Algoritmos\SequenciaBasica\Alg07\NumeroReal\bin\Debug\net7.0\NumeroReal.runtimeconfig.json
+C:\GitHub\Algoritmos\SequenciaBasica\Alg07\NumeroReal\bin\Debug\net7.0\NumeroReal.dll
+C:\GitHub\Algoritmos\SequenciaBasica\Alg07\NumeroReal\bin\Debug\net7.0\NumeroReal.pdb
+C:\GitHub\Algoritmos\SequenciaBasica\Alg07\NumeroReal\obj\Debug\net7.0\NumeroReal.GeneratedMSBuildEditorConfig.editorconfig
+C:\GitHub\Algoritmos\SequenciaBasica\Alg07\NumeroReal\obj\Debug\net7.0\NumeroReal.AssemblyInfoInputs.cache
+C:\GitHub\Algoritmos\SequenciaBasica\Alg07\NumeroReal\obj\Debug\net7.0\NumeroReal.AssemblyInfo.cs
+C:\GitHub\Algoritmos\SequenciaBasica\Alg07\NumeroReal\obj\Debug\net7.0\NumeroReal.csproj.CoreCompileInputs.cache
+C:\GitHub\Algoritmos\SequenciaBasica\Alg07\NumeroReal\obj\Debug\net7.0\NumeroReal.dll
+C:\GitHub\Algoritmos\SequenciaBasica\Alg07\NumeroReal\obj\Debug\net7.0\refint\NumeroReal.dll
+C:\GitHub\Algoritmos\SequenciaBasica\Alg07\NumeroReal\obj\Debug\net7.0\NumeroReal.pdb
+C:\GitHub\Algoritmos\SequenciaBasica\Alg07\NumeroReal\obj\Debug\net7.0\NumeroReal.genruntimeconfig.cache
+C:\GitHub\Algoritmos\SequenciaBasica\Alg07\NumeroReal\obj\Debug\net7.0\ref\NumeroReal.dll
